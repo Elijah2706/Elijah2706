@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Elijah2706
-- 👀 I’m interested in coding fr Data Analytics
+- 👀 I’m interested in coding for Data Analytics
 - 🌱 I’m currently learning Python, SQL, R etc
 - 💞️ I’m looking to collaborate on Data wrangling using all programming languages
 - 📫 How to reach me email: elijah.ogunjirin@live.com
